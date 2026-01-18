@@ -1,0 +1,5 @@
+com\mycompany\testrunner\Person.class
+com\mycompany\testrunner\TestRunner.class
+com\mycompany\testrunner\Genealogy.class
+com\mycompany\testrunner\AVLTree.class
+com\mycompany\testrunner\Node.class
